@@ -17,6 +17,5 @@ import javax.ejb.LocalBean;
 @LocalBean
 public class TestBean {
 
-    // Add business logic below. (Right-click in editor and choose
-    // "Insert Code > Add Business Method")
+   
 }
